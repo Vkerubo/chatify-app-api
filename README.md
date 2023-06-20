@@ -1,24 +1,15 @@
-# README
+# CHATIFY
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A social networking app.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+- User management
 
-* System dependencies
+- News feed & content posting
 
-* Configuration
+- Basic Messaging
 
-* Database creation
+- Analytics
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- ...
